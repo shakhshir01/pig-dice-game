@@ -23,4 +23,5 @@ A fun **two-player dice game** built with **Vanilla JavaScript, HTML, and CSS**.
 ## 🚀 Getting Started
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/pig-game.git
+   git clone https://github.com//shakhshir01/pig-dice-game.git
+
